@@ -7,6 +7,7 @@ all leetcode questions
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ all leetcode questions
 ## Array
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
@@ -42,4 +44,16 @@ all leetcode questions
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
