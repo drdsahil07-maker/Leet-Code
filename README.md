@@ -6,11 +6,13 @@ all leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -20,6 +22,7 @@ all leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
 |  |
@@ -58,4 +61,16 @@ all leetcode questions
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
