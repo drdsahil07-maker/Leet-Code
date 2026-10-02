@@ -47,6 +47,7 @@ all leetcode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0007-reverse-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
