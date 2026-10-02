@@ -38,6 +38,7 @@ all leetcode questions
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -103,4 +104,8 @@ all leetcode questions
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
