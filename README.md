@@ -54,6 +54,7 @@ all leetcode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -120,6 +121,7 @@ all leetcode questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
+| [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
@@ -132,4 +134,8 @@ all leetcode questions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
