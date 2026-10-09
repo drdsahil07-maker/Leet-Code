@@ -1,12 +1,18 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int opened = 0, added = 0;
-        for (char ch : s) {
-            if (ch == '(') opened++;
-            else if (opened) opened--;  // close a pending "("
-            else added++;  // ")" with nothing to close -> add a "("
+        int open = 0, add = 0;
+        for (char c : s) {
+            if (c == '(') {
+                open++;
+            } else {
+                if (open > 0) {
+                    open--;
+                } else {
+                    add++;
+                }
+            }
         }
-        return added + opened;  // still-open "(" need a ")" each
+        return add + open;
     }
 };
