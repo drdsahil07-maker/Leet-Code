@@ -20,6 +20,7 @@ all leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -103,6 +104,7 @@ all leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -122,6 +124,7 @@ all leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
