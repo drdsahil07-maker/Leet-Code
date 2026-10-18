@@ -60,6 +60,7 @@ all leetcode questions
 | ------- |
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -76,6 +77,7 @@ all leetcode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
@@ -88,6 +90,7 @@ all leetcode questions
 | [0032-longest-valid-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
@@ -185,4 +188,36 @@ all leetcode questions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
