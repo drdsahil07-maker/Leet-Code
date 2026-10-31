@@ -76,6 +76,7 @@ all leetcode questions
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
@@ -103,6 +104,7 @@ all leetcode questions
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
 |  |
@@ -167,6 +169,7 @@ all leetcode questions
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
