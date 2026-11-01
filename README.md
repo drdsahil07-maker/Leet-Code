@@ -65,6 +65,7 @@ all leetcode questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,6 +89,7 @@ all leetcode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
