@@ -33,6 +33,7 @@ all leetcode questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
@@ -78,6 +79,7 @@ all leetcode questions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -111,6 +113,7 @@ all leetcode questions
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,19 +203,23 @@ all leetcode questions
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -241,4 +248,8 @@ all leetcode questions
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
