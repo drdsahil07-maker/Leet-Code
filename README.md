@@ -12,6 +12,7 @@ all leetcode questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -75,6 +76,7 @@ all leetcode questions
 | [2333-minimum-sum-of-squared-difference](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -95,6 +97,7 @@ all leetcode questions
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -110,6 +113,7 @@ all leetcode questions
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -129,6 +133,7 @@ all leetcode questions
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,6 +209,7 @@ all leetcode questions
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
