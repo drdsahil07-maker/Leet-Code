@@ -52,6 +52,7 @@ all leetcode questions
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -68,6 +69,7 @@ all leetcode questions
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -127,6 +129,7 @@ all leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -189,6 +192,7 @@ all leetcode questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
