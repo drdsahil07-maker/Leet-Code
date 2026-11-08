@@ -69,6 +69,7 @@ all leetcode questions
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
+| [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -167,6 +168,7 @@ all leetcode questions
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -185,6 +187,7 @@ all leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -241,6 +244,7 @@ all leetcode questions
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -269,6 +273,7 @@ all leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -278,4 +283,8 @@ all leetcode questions
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
