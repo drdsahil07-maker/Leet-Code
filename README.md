@@ -69,6 +69,7 @@ all leetcode questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0035-search-insert-position) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0877-stone-game) |
 | [1267-count-servers-that-communicate](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1267-count-servers-that-communicate) |
@@ -136,6 +137,7 @@ all leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/drdsahil07-maker/Leet-Code/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
