@@ -32,6 +32,7 @@ all leetcode questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -62,6 +63,7 @@ all leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/drdsahil07-maker/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
